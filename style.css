@@ -54,13 +54,37 @@ input:hover{
 .continitore{
     width: 1000px;
     height: 80vh;
-    margin-top:60px ;
+    margin-top:30px ;
 }
 .b{
     display: inline-block;
     text-align: center;
     padding: 5px 8px;
-
+    height:33px;
+    width: 100px;
+    color: white;
 }
+h2{
+    padding-top: 30px;
+}
+.lblue{
+    background-color: #45abea;
+}
+.purple{
+    background-color: #9c72e4;
+}
+.green{
+    background-color: #64c0a9;
+}
+.orange{
+    background-color: #f29e33;
+}
+.lpurble{
+    background-color: #d863a1;
+}
+.lgreen{
+    background-color: #b0c926;
+}
+
 
 
